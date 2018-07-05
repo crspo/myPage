@@ -1,0 +1,12 @@
+.projectSize{
+	max-height: 70%;
+	max-width: 40%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.hoverCrypto:hover{
+	content: url(../images/bitcoin_change.jpg);
+}
+.hoverWeather:hover{
+	content: url(../images/weather_3.jpg);
+}

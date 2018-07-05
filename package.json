@@ -1,0 +1,20 @@
+{
+  "name": "ChandanPokhrel",
+  "version": "1.0.0",
+  "description": "MyPersonal Website",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "prestart": "npm install",
+    "start": "http-server -a localhost -p 3000 -c-1"
+  },
+  "keywords": [
+    "Chandan Pokhrel",
+    "Resume",
+    "Contact",
+    "Personal Page"
+  ],
+  "author": "Chandan Pokhrel",
+  "license": "ISC"
+}
